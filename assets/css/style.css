@@ -98,7 +98,8 @@ footer {
 
 .project-image {
 /* limitar tamaño */
-  max-width: 100%;
+  width: 40px;
+  height: 40px;
   height: auto;
   border-radius: 5px;
   margin-bottom: 10px;
