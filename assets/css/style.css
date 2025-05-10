@@ -89,7 +89,7 @@ section {
 }
 
 .left-column {
-  flex: 2;             /* ocupa 2/3 del espacio disponible */
+  flex: 1;             /* ocupa 2/3 del espacio disponible */
   background-color: #fff;
   padding: 10px;
   border-radius: 5px;
